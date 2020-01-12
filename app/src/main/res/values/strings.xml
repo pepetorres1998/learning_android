@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TextViewExample</string>
+    <string name="toggle_turn_on">Prendido</string>
+    <string name="toggle_turn_off">Apagao</string>
 </resources>
